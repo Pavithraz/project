@@ -1,0 +1,1317 @@
+@charset "utf-8";
+/* CSS Document */
+
+.main
+{
+	background-image:url(img/_misc_04.jpg);
+	width:10000px;
+	height:3700px;
+	position:relative;
+   width: 100%;
+}
+
+.menu1
+{
+	position:static; 
+    top: 10px; 
+    left: 0px; 
+    width: 100%;
+    text-align:center;
+	animation-direction:alternate;
+	display: inline;
+    height: 50px;
+    border: 2px solid rgba(33, 68, 72, 0.59);
+    color: #F9F2F2;
+    text-align: center;
+    font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    box-shadow: 0 8px 0 #1b383b;
+	border-radius: 2000px;
+}
+
+
+.word
+{
+	text-align:center;
+	color:hsla(0,22%,96%,1.00);
+	font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	animation-direction:alternate;
+	animation:cubic-bezier(x1,y1,x2,y2);
+	position: absolute; 
+   top: 10px; 
+   left: 0px; 
+   width: 100%;
+}
+.a1
+{position: relative; 
+   width: 100%; 
+}
+ul{
+	position: absolute; 
+   top: 10px; 
+   left: 0; 
+   width: 100%; 
+}
+	
+.button
+{
+	top:100px;
+ display: inline;
+ height: 50px;
+ width: 250px;
+ background:#17E50E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+ border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ a.button {
+ text-decoration: none;
+}
+
+.button2
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+ border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button2 {
+ text-decoration: none;
+}
+
+.button3
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+  }
+ 
+a.button3 {
+ text-decoration: none;
+}
+
+.button4
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+  }
+ 
+a.button4 {
+ text-decoration: none;
+}
+
+.button5
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button5 {
+ text-decoration: none;
+}
+
+.button6
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button6 {
+ text-decoration: none;
+}
+
+.button7
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button7 {
+ text-decoration: none;
+}
+
+.button8
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button8 {
+ text-decoration: none;
+}
+
+.button9
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button9 {
+ text-decoration: none;
+}
+
+
+.button10
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button10 {
+ text-decoration: none;
+}
+
+.button11
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button11 {
+ text-decoration: none;
+}
+
+.button12
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button12 {
+ text-decoration: none;
+}
+
+.button13
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button13 {
+ text-decoration: none;
+}
+
+.button14
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button14 {
+ text-decoration: none;
+}
+
+.button15
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button15 {
+ text-decoration: none;
+}
+
+
+.button16
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button16 {
+ text-decoration: none;
+}
+
+.button17
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button17 {
+ text-decoration: none;
+}
+
+.button18
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button18 {
+ text-decoration: none;
+}
+
+.button19
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button19 {
+ text-decoration: none;
+}
+
+.button20
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button20 {
+ text-decoration: none;
+}
+
+.button21
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button21{
+ text-decoration: none;
+}
+
+.button22
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button22 {
+ text-decoration: none;
+}
+
+.button23
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button23 {
+ text-decoration: none;
+}
+
+.button24
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button24 {
+ text-decoration: none;
+}
+
+.button25
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button25 {
+ text-decoration: none;
+}
+
+.button26
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button26 {
+ text-decoration: none;
+}
+
+.button27
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button27 {
+ text-decoration: none;
+}
+
+.button28
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button28{
+ text-decoration: none;
+}
+
+
+.button29
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button29 {
+ text-decoration: none;
+}
+
+.button30
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button30 {
+ text-decoration: none;
+}
+
+.button31
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button31 {
+ text-decoration: none;
+}
+
+.button32
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button32 {
+ text-decoration: none;
+}
+
+.button33
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button33 {
+ text-decoration: none;
+}
+
+.button34
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button34 {
+ text-decoration: none;
+}
+
+.button35
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button35 {
+ text-decoration: none;
+}
+
+.button36
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button36 {
+ text-decoration: none;
+}
+
+.button37
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button37 {
+ text-decoration: none;
+}
+
+.button38
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button38 {
+ text-decoration: none;
+}
+
+.button39
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button39 {
+ text-decoration: none;
+}
+
+.button40
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button40 {
+ text-decoration: none;
+}
+
+.button41
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button41 {
+ text-decoration: none;
+}
+
+.button42
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button42 {
+ text-decoration: none;
+}
+
+.button43
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button43 {
+ text-decoration: none;
+}
+
+.button44
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button44 {
+ text-decoration: none;
+}
+
+.button45
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button45 {
+ text-decoration: none;
+}
+
+
+.button46
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button46 {
+ text-decoration: none;
+}
+
+.button47
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button47 {
+ text-decoration: none;
+}
+
+.button48
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button48 {
+ text-decoration: none;
+}
+
+.button49
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button49 {
+ text-decoration: none;
+}
+
+.button50
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button50 {
+ text-decoration: none;
+}
+
+.button51
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button51 {
+ text-decoration: none;
+}
+
+.button52
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button52 {
+ text-decoration: none;
+}
+
+.button53
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button53 {
+ text-decoration: none;
+}
+
+.button54
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button54 {
+ text-decoration: none;
+}
+
+.button55
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button55 {
+ text-decoration: none;
+}
+
+.button56
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button56 {
+ text-decoration: none;
+}
+
+.button57
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button57 {
+ text-decoration: none;
+}
+
+.button58
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button58 {
+ text-decoration: none;
+}
+
+.button59
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button59 {
+ text-decoration: none;
+}
+
+.button60
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button60 {
+ text-decoration: none;
+}
+
+.button61
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button61 {
+ text-decoration: none;
+}
+
+.button62
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button62 {
+ text-decoration: none;
+}
+
+.button63
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button63 {
+ text-decoration: none;
+}
+
+.button64
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button64 {
+ text-decoration: none;
+}
+
+.button65
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button65 {
+ text-decoration: none;
+}
+
+.button66
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button66 {
+ text-decoration: none;
+}
+
+.button67
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button67 {
+ text-decoration: none;
+}
+
+.button68
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button68 {
+ text-decoration: none;
+}
+
+.button69
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button69 {
+ text-decoration: none;
+}
+
+.button70
+{
+	display: inline;
+ height: 50px;
+ width: 250px;
+ background: #03F72E;
+ border: 2px solid rgba(33, 68, 72, 0.59);
+ color: #000000;
+ text-align: center;
+ font: bold 3.2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  border-radius: 150px;
+ box-shadow: 0 8px 0 #1b383b;
+ }
+ 
+a.button70 {
+ text-decoration: none;
+}
